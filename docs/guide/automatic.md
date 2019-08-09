@@ -10,9 +10,15 @@ title: 'Automatic Installation'
 
 **Step 3.** In your Wordpress Dashboard navigate to Appearance > Themes.
 
+![Install](https://raw.githubusercontent.com/vulinhpc/alaska-docs/master/docs/.vuepress/public/img/install_1.png)
+
 **Step 4.** Click on Add New, then clicking on Upload Theme and browse the alaska.zip file, finally click Install Now.
 
+![upload theme](https://raw.githubusercontent.com/vulinhpc/alaska-docs/master/docs/.vuepress/public/img/install_2.png)
+
 **Step 5.** Wait a while untill the screenshot below appears, on this form clicking on  Activate link  to active Alaska Theme. Theme has been installed and actived.
+
+![activate](https://raw.githubusercontent.com/vulinhpc/alaska-docs/master/docs/.vuepress/public/img/install_5.png)
 
 If you plan to edit the theme files, like `style.css`. I amsuggesting you to install both Alaska and Alaska Child theme, then activate the child theme. Child themes are great because allow you to edit theme and also let's you update the original theme in the future, without loosing your edited files work.
 

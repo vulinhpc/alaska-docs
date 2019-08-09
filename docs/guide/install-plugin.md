@@ -14,4 +14,16 @@ Alaska theme required and recommended the following plugins:
   
 After install Alaska theme you will be noticed to install required plugins, just follow the instruction you will get all set.
 
+![install plugin](https://github.com/vulinhpc/alaska-docs/blob/master/docs/.vuepress/public/img/install_7.png?raw=true)
+
+![bulk install](https://github.com/vulinhpc/alaska-docs/blob/master/docs/.vuepress/public/img/install_8.png?raw=true)
+
 The installation process may take a while on some hosts, so please be patient. All installations have been completed. Scolling down and click on the link "Return to Required Plugins Inslaller" to activate those installed plugins.
+
+![return](https://raw.githubusercontent.com/vulinhpc/alaska-docs/master/docs/.vuepress/public/img/install_9.png)
+
+Return to the Dashboard after all plugins have been activated.
+
+![return dashboard](https://github.com/vulinhpc/alaska-docs/blob/master/docs/.vuepress/public/img/install_11.png?raw=true)
+
+All needed installation have done. Follow next step if you want to install sample data like our demo website.

@@ -24,7 +24,8 @@ module.exports = {
                 children:[
                     '/guide/automatic',
                     '/guide/manual',
-                    '/guide/install-plugin'
+                    '/guide/install-plugin',
+                    '/guide/sample-data'
                 ]
             }
         ]
