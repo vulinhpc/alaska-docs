@@ -1,6 +1,6 @@
 module.exports = {
     title: 'Alaska Documentation',
-    description: 'Wordpress hosting theme',
+    description: 'WordPress Hosting Theme',
     themeConfig: {
         logo: '/assets/logo.png',
         nav: [{
