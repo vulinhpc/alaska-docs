@@ -19,4 +19,4 @@ Outreach Shame is the place to expose every lousy outreach emails. It’s every 
 
 ## How can you contribute
 
-Simple, forward us the shameful email to *outreachshame@snipcart.com* where it’ll be up for moderation. We kindly ask you to censor any personal information from the email before forwarding it to us. Once your submission is accepted by our team it’ll be published on the site outreachshame.com.
+Simple, forward us the shameful email to *`outreachshame@snipcart.com`* where it’ll be up for moderation. We kindly ask you to censor any personal information from the email before forwarding it to us. Once your submission is accepted by our team it’ll be published on the site [outreachshame.com](http://outreachshame.com/).
